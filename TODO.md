@@ -16,10 +16,17 @@
 + Pedra
 - Tesoura
 
-## Tesoura [3]
+## Tesoura []
 + Papel
 - Pedra
 
 ## Pedra [1]
 + Tesoura
 - Papel
+
+## Feedback da jogada
+
+-[ ] Jogada do jogador
+-[ ] Jogada da AI
+-[ ] Quem ganhou
+-[ ] Statusbar - Pontos
