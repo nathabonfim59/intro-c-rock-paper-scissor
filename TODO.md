@@ -10,3 +10,16 @@
 
 [ ] Comparar as duas jogadas
 [ ] Atribuir os pontos
+
+
+## Papel [2]
++ Pedra
+- Tesoura
+
+## Tesoura [3]
++ Papel
+- Pedra
+
+## Pedra [1]
++ Tesoura
+- Papel
