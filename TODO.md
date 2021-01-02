@@ -7,3 +7,6 @@
 
 -[ ] Jogar com AI
 -[ ] Jogar novamente
+
+[ ] Comparar as duas jogadas
+[ ] Atribuir os pontos
